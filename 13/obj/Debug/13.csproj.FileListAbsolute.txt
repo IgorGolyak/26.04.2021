@@ -1,0 +1,6 @@
+C:\Users\golya\source\repos\IgorekGolichic\13\obj\Debug\13.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\IgorekGolichic\13\bin\Debug\13.exe.config
+C:\Users\golya\source\repos\IgorekGolichic\13\bin\Debug\13.exe
+C:\Users\golya\source\repos\IgorekGolichic\13\bin\Debug\13.pdb
+C:\Users\golya\source\repos\IgorekGolichic\13\obj\Debug\13.exe
+C:\Users\golya\source\repos\IgorekGolichic\13\obj\Debug\13.pdb

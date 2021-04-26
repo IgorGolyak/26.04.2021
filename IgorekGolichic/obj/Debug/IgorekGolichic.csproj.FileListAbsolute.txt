@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\bin\Debug\IgorekGolichic.exe.config
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\bin\Debug\IgorekGolichic.exe
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\bin\Debug\IgorekGolichic.pdb
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\obj\Debug\IgorekGolichic.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\obj\Debug\IgorekGolichic.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\obj\Debug\IgorekGolichic.exe
+C:\Users\golya\source\repos\IgorekGolichic\IgorekGolichic\obj\Debug\IgorekGolichic.pdb

@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\IgorekGolichic\5.36\bin\Debug\5.36.exe.config
+C:\Users\golya\source\repos\IgorekGolichic\5.36\bin\Debug\5.36.exe
+C:\Users\golya\source\repos\IgorekGolichic\5.36\bin\Debug\5.36.pdb
+C:\Users\golya\source\repos\IgorekGolichic\5.36\obj\Debug\5.36.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\IgorekGolichic\5.36\obj\Debug\5.36.exe
+C:\Users\golya\source\repos\IgorekGolichic\5.36\obj\Debug\5.36.pdb
+C:\Users\golya\source\repos\IgorekGolichic\5.36\obj\Debug\5.36.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\golya\source\repos\IgorekGolichic\29\bin\Debug\29.exe.config
+C:\Users\golya\source\repos\IgorekGolichic\29\bin\Debug\29.exe
+C:\Users\golya\source\repos\IgorekGolichic\29\bin\Debug\29.pdb
+C:\Users\golya\source\repos\IgorekGolichic\29\obj\Debug\29.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\IgorekGolichic\29\obj\Debug\29.exe
+C:\Users\golya\source\repos\IgorekGolichic\29\obj\Debug\29.pdb
